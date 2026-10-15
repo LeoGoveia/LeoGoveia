@@ -21,7 +21,8 @@
 
 **PT-BR 🇧🇷**
 
-Olá! Sou o Leo, estudante de Engenharia de Software e aspirante a desenvolvedor Front-End.
+Olá! Sou o Leonan, estudante de Engenharia de Software e aspirante a desenvolvedor Front-End.
+
 
 Estou construindo minha base na programação, estudando como a web funciona e transformando o conhecimento em pequenos projetos práticos. Meu foco atual é fortalecer a lógica de programação, desenvolver boas práticas e evoluir gradualmente para tecnologias como React.
 
@@ -29,15 +30,18 @@ Acredito que consistência, curiosidade e prática são fundamentais para cresce
 
 **EN 🇺🇸**
 
-Hey! I'm Leo, a Software Engineering student working toward becoming a Front-End Developer.
+Hey! I'm Leonan, a Software Engineering student working toward becoming a Front-End Developer.
 
 I'm strengthening my programming fundamentals, learning how the web works, and turning what I learn into practical projects. My current focus is JavaScript, web fundamentals, Git, and gradually moving toward React.
 
 I'm still early in my journey, but I'm committed to learning consistently, understanding the code I write, and growing one project at a time.
 
+
 ---
 
+
 ## 🧰 Tech Stack & Learning Path
+
 
 ### 📚 Currently learning and practicing
 
@@ -56,8 +60,6 @@ I'm still early in my journey, but I'm committed to learning consistently, under
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-*These are learning goals, not claims of professional proficiency.*
-
 ---
 
 ## 🚀 Projects & Experiments
@@ -71,8 +73,10 @@ Small projects, practical lessons, continuous improvement.
 | **Web Fundamentals Lab** | Practicing core web concepts and strengthening my foundations |
 
 > More projects and repository links will be added as they become ready to showcase.
+> 
 
 ---
+
 
 ## 🗺️ My Developer Journey
 
@@ -96,10 +100,6 @@ Small projects, practical lessons, continuous improvement.
 [05] Real-World Projects
      Build · Test · Improve · Repeat
 ```
-
-*The goal isn't to rush through the roadmap. It's to understand each step and put it into practice.*
-
----
 
 ## 📊 GitHub Overview
 
