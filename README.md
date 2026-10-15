@@ -1,11 +1,11 @@
  <!--
-  Leonan | GitHub Profile README
+  LeoGoveia | GitHub Profile README
   Theme: Midnight Reaper — Black, Graphite & Deep Purple
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:17151C,100:35264A&height=190&section=header&text=LEOGOVEIA&fontSize=42&fontColor=E5E5E5&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONT-END%20DEVELOPMENT&descSize=12&descAlignY=58&descColor=A99BBF" width="100%" alt="Midnight Reaper header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:17151C,100:35264A&height=190&section=header&text=Leonan&fontSize=42&fontColor=E5E5E5&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONT-END%20DEVELOPMENT&descSize=12&descAlignY=58&descColor=A99BBF" width="100%" alt="Midnight Reaper header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1200&color=B7A7CC&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Leo!+%F0%9F%91%8B;Hello%2C+I'm+Leo!+%F0%9F%91%8B;Software+Engineering+Student;Future+Front-End+Developer;Learning.+Building.+Improving." alt="Animated introduction" />
 
