@@ -1,137 +1,73 @@
-<!--
-  LeoGoveia | GitHub Profile README
-  Personal theme: Midnight Blue + Neon Blue + Purple
--->
+# ⚫ Leo | Front-End Developer
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0d14,100:8b0000&height=180&section=header&text=LEO&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building.%20Learning.%20Improving.&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Leo!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Future+Front-End+Developer+%F0%9F%92%BB;Learning.+Building.+Improving.+%F0%9F%9A%80" alt="Animated introduction" />
-
-### `Building my future, one project at a time.`
-
-[![GitHub](https://img.shields.io/badge/GitHub-LeoGoveia-181717?style=for-the-badge&logo=github)](https://github.com/LeoGoveia)
-![Status](https://img.shields.io/badge/Status-Learning-38BDF8?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Brazil-7C3AED?style=for-the-badge)
-
-</div>
-
----
-
-## 🇧🇷 Sobre mim | About Me 🇺🇸
-
-**PT-BR 🇧🇷**
-
-Olá! Sou o Leonan, estudante de Engenharia de Software e aspirante a desenvolvedor Front-End.
-
-
-Estou construindo minha base na programação, estudando como a web funciona e transformando o conhecimento em pequenos projetos práticos. Meu foco atual é fortalecer a lógica de programação, desenvolver boas práticas e evoluir gradualmente para tecnologias como React.
-
-Acredito que consistência, curiosidade e prática são fundamentais para crescer na tecnologia. Ainda estou no começo da jornada, mas estou comprometido em aprender de verdade, entender o que construo e melhorar a cada projeto.
-
-**EN 🇺🇸**
-
-Hey! I'm Leonan, a Software Engineering student working toward becoming a Front-End Developer.
-
-I'm strengthening my programming fundamentals, learning how the web works, and turning what I learn into practical projects. My current focus is JavaScript, web fundamentals, Git, and gradually moving toward React.
-
-I'm still early in my journey, but I'm committed to learning consistently, understanding the code I write, and growing one project at a time.
-
-
----
-
-
-## 🧰 Tech Stack & Learning Path
-
-
-### 📚 Currently learning and practicing
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 🔭 Exploring next
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<p align="center">
+  <i>"First, understand the fundamentals. Then, build something meaningful."</i>
 </p>
 
 ---
 
-## 🚀 Projects & Experiments
+## 🩸 About Me
 
-Small projects, practical lessons, continuous improvement.
-
-| Project | What I'm practicing |
-|---|---|
-| **Todo List** | JavaScript logic, DOM manipulation, and user interactions |
-| **Temperature Converter** | Functions, conditionals, input handling, and number formatting |
-| **Web Fundamentals Lab** | Practicing core web concepts and strengthening my foundations |
-
-> More projects and repository links will be added as they become ready to showcase.
-> 
-
----
-
-
-## 🗺️ My Developer Journey
-
-```text
-[01] Programming Fundamentals
-     HTML · CSS · JavaScript
-                |
-                v
-[02] Tools & Workflow
-     Git · GitHub · Terminal
-                |
-                v
-[03] Web Fundamentals
-     HTTP · DNS · Browser · APIs
-                |
-                v
-[04] Modern Front-End
-     React · Components · State
-                |
-                v
-[05] Real-World Projects
-     Build · Test · Improve · Repeat
+```javascript
+const leo = {
+  role: "Aspiring Front-End Developer",
+  studying: "Software Engineering",
+  currentlyLearning: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git & GitHub",
+    "Web Fundamentals"
+  ],
+  nextGoal: "React",
+  mindset: "Consistency over perfection"
+};
 ```
 
-## 📊 GitHub Overview
+I'm a Software Engineering student focused on building a strong foundation in web development.
 
-<div align="center">
+Currently strengthening my fundamentals, practicing through small projects, and learning how to write cleaner, more maintainable code.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeoGoveia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+My goal is to turn knowledge into practical solutions and grow into a developer who understands not only *how* things work, but *why* they work.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGoveia&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+## ⚙️ Tech Stack
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+**Exploring next:** React, APIs, and modern front-end development.
+
+## 🗂️ Featured Projects
+
+> Small projects. Solid foundations. Continuous improvement.
+
+- **Todo List** — Practicing DOM manipulation and JavaScript logic.
+- **Temperature Converter** — Working with functions, conditionals, and user input.
+- **Web Fundamentals Lab** — Consolidating core web concepts through practical experiments.
+
+*More projects coming as I progress through my studies.*
+
+## 📚 Currently Focused On
+
+- Strengthening programming logic and JavaScript fundamentals.
+- Understanding how the web works, from HTTP to browser rendering.
+- Practicing Git branches, commits, merges, and pull requests.
+- Building projects without relying on tutorials for every step.
+- Preparing for React and more advanced front-end projects.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9" />
+</p>
 
 ---
 
-## 🎯 Beyond the Code
-
-I believe becoming a good developer is about more than learning a framework.
-
-- 🧠 **Curiosity:** understanding why things work, not just how.
-- 🏗️ **Consistency:** building skills through regular practice.
-- 📈 **Growth:** learning from mistakes and improving over time.
-- 🤝 **Collaboration:** sharing knowledge and learning from other developers.
-
-I'm here to build a strong foundation, create useful things, and keep moving forward.
-
----
-
-<div align="center">
-
-### `Learn with purpose. Build with patience. Grow with consistency.`
-
-**Thanks for stopping by! Feel free to explore my repositories.** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=100&section=footer" width="100%" alt="Decorative gradient footer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=footer" width="100%" />
+  <sub>Discipline. Curiosity. Progress.</sub>
+</p>
