@@ -1,5 +1,5 @@
  <!--
-  LeoGoveia | GitHub Profile README
+  Leonan | GitHub Profile README
   Theme: Midnight Reaper — Black, Graphite & Deep Purple
 -->
 
